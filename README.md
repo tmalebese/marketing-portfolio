@@ -1,6 +1,6 @@
 # Marketing Portfolio
 
-Welcome to my professional marketing portfolio. I'm a results-driven marketing professional with expertise in campaign strategy, digital marketing, content creation, and brand development.
+Welcome to my professional marketing portfolio. I'm a results-driven marketing professional with 3 years of marketing experience and 9 years in sales & admissions, combining strategic thinking with proven execution to drive business growth and engage audiences.
 
 ## 👋 About Me
 
@@ -45,26 +45,31 @@ Led a comprehensive brand repositioning effort that resulted in improved market 
 
 ## 💼 Professional Experience
 
-**Senior Marketing Professional**
-- Led cross-functional marketing teams
-- Managed budgets up to $500K+
-- Developed strategies that increased revenue by 40%+
-- Implemented marketing automation and analytics systems
+**Marketing Professional (3 years)**
+- Strategic marketing planning and execution
+- Campaign development and management
+- Analytics and performance optimization
+- Digital marketing strategy
+
+**Sales & Admissions Professional (9 years)**
+- Customer relationship management
+- Business development
+- Process optimization
+- Team coordination
 
 ## 🏆 Achievements
 
-- Increased marketing ROI by 120% through strategic optimization
-- Launched 25+ successful campaigns across multiple channels
-- Built and managed teams of 5+ marketing professionals
-- Generated 10,000+ qualified leads annually
-- Improved customer acquisition cost by 35%
+- Increased marketing ROI through strategic optimization
+- Launched successful campaigns across multiple channels
+- Improved customer acquisition strategies
+- Generated qualified leads and increased conversions
+- Implemented marketing automation systems
 
 ## 📚 Skills & Tools
 
 **Marketing Platforms:**
-- HubSpot, Salesforce, Marketo
-- Google Analytics, Adobe Analytics
-- Tableau, Power BI
+- HubSpot, Google Analytics
+- Tableau, Microsoft Dynamics 365
 
 **Content & Design:**
 - Copywriting, Content Strategy
@@ -73,19 +78,20 @@ Led a comprehensive brand repositioning effort that resulted in improved market 
 **Social & Web:**
 - Facebook Ads, LinkedIn Ads, Google Ads
 - WordPress, Wix, Webflow
+- Brandwatch
 
 **Data & Analysis:**
-- Excel, SQL, Python (basic)
+- Excel, SEO Analysis
 - Data visualization, A/B testing
 
 ## 📬 Get In Touch
 
 I'm always interested in discussing marketing strategy, career opportunities, or how I can help your business grow.
 
-**Email:** [Your Email Address]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Phone:** [Your Phone Number]  
-**Location:** [Your Location]
+**Email:** tmalebese@gmail.com  
+**Phone:** 0784759225  
+**LinkedIn:** www.linkedin.com/in/tebogo-nini-malebese-4102ba9a  
+**Location:** Gauteng, South Africa
 
 ---
 
