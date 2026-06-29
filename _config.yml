@@ -1,0 +1,19 @@
+theme: jekyll-theme-minimal
+title: Marketing Portfolio
+description: Professional marketing portfolio showcasing strategy, campaigns, and results
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/tmalebese/marketing-portfolio
+
+# SEO
+url: https://tmalebese.github.io/marketing-portfolio
+twitter:
+  username: "@YourTwitterHandle"
+
+# Social
+social:
+  name: Your Name
+  links:
+    - https://linkedin.com/in/yourprofile
+    - https://github.com/tmalebese
