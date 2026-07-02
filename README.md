@@ -68,25 +68,31 @@ Led a comprehensive brand repositioning effort that resulted in improved market 
 ## 📚 Skills & Tools
 
 **Marketing Platforms:**
-- HubSpot, Google Analytics
-- Tableau, Microsoft Dynamics 365
+- Google Analytics
+- Microsoft Dynamics 365
 
 **Content & Design:**
 - Copywriting, Content Strategy
-- Figma, Canva, Adobe Creative Suite
+- Canva, Adobe Creative Suite
 
 **Social & Web:**
-- Facebook Ads, LinkedIn Ads, Google Ads
-- WordPress, Wix, Webflow
-- Brandwatch
+- ChatGPT
+- Grammerly
+- Canva
+- Brandwatch (Publish)
 
+**Project Coordination:**
+- Jira
+- Planner
+- Trello
+- MS Office Suite
+  
 **Data & Analysis:**
-- Excel, SEO Analysis
+- Excel, SEO Analysis, Google analytics
 - Data visualization, A/B testing
+- Brandwatch (Measure, Listen, Engage)
 
 ## 📬 Get In Touch
-
-I'm always interested in discussing marketing strategy, career opportunities, or how I can help your business grow.
 
 **Email:** tmalebese@gmail.com  
 **Phone:** 0784759225  
