@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 title: Marketing Portfolio
 description: Professional marketing portfolio showcasing strategy, campaigns, and results
 show_downloads: false
@@ -13,7 +13,7 @@ twitter:
 
 # Social
 social:
-  name: Your Name
+  name: Tebogo Malebese
   links:
-    - https://linkedin.com/in/yourprofile
+    - https://linkedin.com/in/tebogo-nini-malebese-4102ba9a
     - https://github.com/tmalebese
