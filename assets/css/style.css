@@ -1,0 +1,174 @@
+/* Custom CSS for Marketing Portfolio - Green Theme */
+
+:root {
+  --primary-green: #00a86b;
+  --dark-green: #005a3a;
+  --light-green: #e8f5e9;
+  --accent-green: #26c281;
+}
+
+/* Override theme colors */
+body {
+  background: linear-gradient(135deg, #f5f5f5 0%, #e8f5e9 100%);
+  color: #333;
+}
+
+header {
+  background: linear-gradient(135deg, #005a3a 0%, #00a86b 100%) !important;
+  border-bottom: 4px solid #26c281;
+}
+
+header h1 {
+  color: #fff !important;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+
+header p {
+  color: #e8f5e9 !important;
+}
+
+a {
+  color: #00a86b !important;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #005a3a !important;
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #005a3a !important;
+  border-bottom: 2px solid #00a86b;
+  padding-bottom: 8px;
+  margin-top: 20px;
+}
+
+h1 {
+  border-bottom: 3px solid #26c281;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+}
+
+table thead {
+  background: linear-gradient(135deg, #005a3a 0%, #00a86b 100%);
+  color: white;
+}
+
+table th {
+  padding: 12px;
+  text-align: left;
+  font-weight: 600;
+  color: #fff;
+}
+
+table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #00a86b;
+}
+
+table tbody tr:hover {
+  background-color: #e8f5e9;
+}
+
+/* Code blocks */
+code {
+  background-color: #f0f0f0;
+  color: #005a3a;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+pre {
+  background: linear-gradient(to right, #f5f5f5, #e8f5e9);
+  border-left: 4px solid #00a86b;
+  padding: 12px;
+  overflow-x: auto;
+  border-radius: 4px;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #00a86b;
+  padding: 10px 15px;
+  background-color: #e8f5e9;
+  margin: 15px 0;
+  font-style: italic;
+  color: #005a3a;
+}
+
+/* Buttons and links styling */
+.btn {
+  background-color: #00a86b !important;
+  border: 2px solid #00a86b !important;
+  color: white !important;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #005a3a !important;
+  border-color: #005a3a !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 168, 107, 0.3);
+}
+
+/* Dividers */
+hr {
+  border: 0;
+  height: 2px;
+  background: linear-gradient(to right, transparent, #00a86b, transparent);
+  margin: 30px 0;
+}
+
+/* Footer */
+footer {
+  border-top: 2px solid #00a86b;
+  color: #666;
+  padding: 20px 0;
+}
+
+/* Emphasis boxes */
+.highlight-box {
+  background-color: #e8f5e9;
+  border-left: 4px solid #00a86b;
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 4px;
+}
+
+/* Badge styling */
+.badge {
+  display: inline-block;
+  background-color: #00a86b;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  margin: 5px 5px 5px 0;
+}
+
+.badge:hover {
+  background-color: #005a3a;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  header h1 {
+    font-size: 24px;
+  }
+  
+  h2 {
+    font-size: 20px;
+  }
+}
