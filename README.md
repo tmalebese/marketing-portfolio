@@ -1,10 +1,10 @@
 # Marketing Portfolio
 
-Welcome to my professional marketing portfolio. I'm a results-driven marketing professional with 3 years of marketing experience and 9 years in sales & admissions, combining strategic thinking with proven execution to drive business growth and engage audiences.
+Welcome to my professional marketing portfolio. I'm a results-driven marketing professional with 3 years of marketing experience and 9 years in sales & admissions, combining strategic thinking with data-driven execution to deliver measurable business results.
 
 ## 👋 About Me
 
-I'm passionate about creating impactful marketing strategies that drive business growth and engage audiences. With a proven track record in developing and executing comprehensive marketing campaigns, I combine data-driven insights with creative storytelling to deliver measurable results.
+I'm passionate about creating impactful marketing strategies that drive business growth and engage audiences. With a proven track record in developing and executing comprehensive marketing campaigns, I excel at strategic planning, digital marketing, and delivering measurable ROI.
 
 **Key Strengths:**
 - Strategic Marketing Planning
@@ -92,6 +92,14 @@ Led a comprehensive brand repositioning effort that resulted in improved market 
 - Data visualization, A/B testing
 - Brandwatch (Measure, Listen, Engage)
 
+## 🏅 Certifications & Credentials
+
+I maintain professional certifications across marketing, technology, and project management. [View my complete certifications portfolio](./certifications.md) including:
+- Brandwatch Academy (4 certifications)
+- Microsoft Learn (3 certifications)
+- Project Management (4 certifications)
+- Marketing & Digital Strategy (4+ certifications)
+
 ## 📬 Get In Touch
 
 **Email:** tmalebese@gmail.com  
@@ -101,6 +109,15 @@ Led a comprehensive brand repositioning effort that resulted in improved market 
 
 ---
 
-**Last Updated:** June 2026
+## Quick Navigation
 
-*This portfolio showcases my marketing expertise and track record of delivering results. Each case study demonstrates my approach to solving real business challenges through strategic thinking and execution.*
+- 📖 [About Me](./about.md)
+- 💼 [Projects & Case Studies](./projects/)
+- 🏅 [Certifications](./certifications.md)
+- 📧 [Contact](./contact.md)
+
+---
+
+**Last Updated:** July 2026
+
+*This portfolio showcases my marketing expertise and track record of delivering results. Each case study demonstrates my approach to solving real business challenges through strategic thinking and data-driven decision making.*
