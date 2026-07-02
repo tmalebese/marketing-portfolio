@@ -7,29 +7,49 @@
   --accent-green: #26c281;
 }
 
-/* Override theme colors */
+/* Global font styling */
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
 body {
-  background: linear-gradient(135deg, #f5f5f5 0%, #e8f5e9 100%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+  background: #e8f5e9 !important;
   color: #333;
 }
 
-header {
+/* Header Override - STRONG */
+.page-header {
   background: linear-gradient(135deg, #005a3a 0%, #00a86b 100%) !important;
-  border-bottom: 4px solid #26c281;
+  border-bottom: 4px solid #26c281 !important;
 }
 
-header h1 {
-  color: #fff !important;
+header,
+.site-header {
+  background: linear-gradient(135deg, #005a3a 0%, #00a86b 100%) !important;
+  border-bottom: 4px solid #26c281 !important;
+}
+
+header h1,
+.page-header h1,
+.site-header h1 {
+  color: #ffffff !important;
   text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
-header p {
+header p,
+.page-header p,
+.site-header p {
   color: #e8f5e9 !important;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
+/* Link colors */
 a {
   color: #00a86b !important;
   font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 a:hover {
@@ -38,15 +58,32 @@ a:hover {
 }
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
+h1 {
   color: #005a3a !important;
-  border-bottom: 2px solid #00a86b;
+  border-bottom: 3px solid #26c281 !important;
   padding-bottom: 8px;
   margin-top: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
-h1 {
-  border-bottom: 3px solid #26c281;
+h2 {
+  color: #005a3a !important;
+  border-bottom: 2px solid #00a86b !important;
+  padding-bottom: 8px;
+  margin-top: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+h3, h4, h5, h6 {
+  color: #00a86b !important;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+/* Main content area */
+.main-content,
+main {
+  background: #ffffff !important;
+  color: #333;
 }
 
 /* Tables */
@@ -54,10 +91,11 @@ table {
   border-collapse: collapse;
   width: 100%;
   margin: 20px 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 table thead {
-  background: linear-gradient(135deg, #005a3a 0%, #00a86b 100%);
+  background: linear-gradient(135deg, #005a3a 0%, #00a86b 100%) !important;
   color: white;
 }
 
@@ -65,110 +103,134 @@ table th {
   padding: 12px;
   text-align: left;
   font-weight: 600;
-  color: #fff;
+  color: #ffffff !important;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 table td {
   padding: 10px 12px;
   border-bottom: 1px solid #00a86b;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+table tbody tr {
+  background-color: #ffffff;
 }
 
 table tbody tr:hover {
-  background-color: #e8f5e9;
+  background-color: #e8f5e9 !important;
 }
 
 /* Code blocks */
 code {
-  background-color: #f0f0f0;
-  color: #005a3a;
+  background-color: #f0f0f0 !important;
+  color: #005a3a !important;
   padding: 2px 6px;
   border-radius: 3px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 pre {
-  background: linear-gradient(to right, #f5f5f5, #e8f5e9);
-  border-left: 4px solid #00a86b;
+  background: linear-gradient(to right, #f5f5f5, #e8f5e9) !important;
+  border-left: 4px solid #00a86b !important;
   padding: 12px;
   overflow-x: auto;
   border-radius: 4px;
+  color: #333;
+  font-family: 'Segoe UI Mono', 'Courier New', monospace !important;
 }
 
 /* Blockquotes */
 blockquote {
-  border-left: 4px solid #00a86b;
+  border-left: 4px solid #00a86b !important;
   padding: 10px 15px;
-  background-color: #e8f5e9;
+  background-color: #e8f5e9 !important;
   margin: 15px 0;
   font-style: italic;
-  color: #005a3a;
-}
-
-/* Buttons and links styling */
-.btn {
-  background-color: #00a86b !important;
-  border: 2px solid #00a86b !important;
-  color: white !important;
-  padding: 10px 20px;
-  border-radius: 4px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: all 0.3s ease;
-}
-
-.btn:hover {
-  background-color: #005a3a !important;
-  border-color: #005a3a !important;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 168, 107, 0.3);
+  color: #005a3a !important;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 /* Dividers */
 hr {
   border: 0;
   height: 2px;
-  background: linear-gradient(to right, transparent, #00a86b, transparent);
+  background: linear-gradient(to right, transparent, #00a86b, transparent) !important;
   margin: 30px 0;
 }
 
 /* Footer */
 footer {
-  border-top: 2px solid #00a86b;
+  border-top: 2px solid #00a86b !important;
   color: #666;
   padding: 20px 0;
-}
-
-/* Emphasis boxes */
-.highlight-box {
-  background-color: #e8f5e9;
-  border-left: 4px solid #00a86b;
-  padding: 15px;
-  margin: 15px 0;
-  border-radius: 4px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 /* Badge styling */
 .badge {
   display: inline-block;
-  background-color: #00a86b;
-  color: white;
+  background-color: #00a86b !important;
+  color: white !important;
   padding: 5px 10px;
   border-radius: 20px;
   font-size: 12px;
   font-weight: 600;
   margin: 5px 5px 5px 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .badge:hover {
-  background-color: #005a3a;
+  background-color: #005a3a !important;
+}
+
+/* Remove any blue/yellow overrides */
+.btn-download,
+.btn-primary {
+  background-color: #00a86b !important;
+  border-color: #00a86b !important;
+  color: white !important;
+}
+
+.btn-download:hover,
+.btn-primary:hover {
+  background-color: #005a3a !important;
+  border-color: #005a3a !important;
+}
+
+/* Override theme default colors */
+.highlight-box {
+  background-color: #e8f5e9 !important;
+  border-left: 4px solid #00a86b !important;
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 4px;
+}
+
+/* Navigation links */
+nav a,
+.navigation a {
+  color: #00a86b !important;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+nav a:hover,
+.navigation a:hover {
+  color: #005a3a !important;
 }
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-  header h1 {
+  header h1,
+  .page-header h1 {
     font-size: 24px;
   }
   
   h2 {
     font-size: 20px;
+  }
+  
+  body {
+    font-size: 14px;
   }
 }
