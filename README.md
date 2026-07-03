@@ -1,6 +1,6 @@
 #  Marketing Portfolio
 
-> **Results-Driven Marketing Professional** | Digital Strategy Specialist | 3 Years Marketing + 9 Years Sales Excellence
+> **Results-Driven Marketing Professional** | Digital Strategy Specialist | 3 Years Marketing + 9 Years Sales & admission Excellence
 
 ---
 
@@ -12,7 +12,7 @@ I'm **Tebogo Malebese**, a strategic marketing professional passionate about cre
 
 |  | Strategic Thinking | Data-Driven Decisions | Proven ROI |
 |:--|:--|:--|:--|
-| I don't just execute campaigns—I develop winning strategies that align with your business goals | Every decision is backed by analytics and insights | Average ROI lift: **200-300%** across projects |
+| I don't just execute campaigns—I develop winning strategies that align with your business goals | Every decision is backed by analytics and insights 
 
 ---
 
@@ -22,9 +22,6 @@ I'm **Tebogo Malebese**, a strategic marketing professional passionate about cre
 **The Challenge:** Low brand awareness and inconsistent digital presence  
 **The Solution:** Multi-channel integrated marketing campaign  
 **The Results:** 
--  **150%** increase in brand awareness
--  **750** qualified leads generated
--  **280%** ROI achieved
 
 ---
 
@@ -32,19 +29,14 @@ I'm **Tebogo Malebese**, a strategic marketing professional passionate about cre
 **The Challenge:** Need to establish thought leadership and drive organic growth  
 **The Solution:** SEO-optimized content strategy with 48+ articles, whitepapers, and webinars  
 **The Results:**
-- **200%** organic traffic increase
-- **400%** more content-generated leads
 - Achieved **Page 1-2** rankings for 45+ keywords
 
 ---
 
 ### Case Study 3: [Social Media Growth Campaign](./projects/case-study-3.md)
 **The Challenge:** Minimal social presence and low engagement  
-**The Solution:** Platform-specific content strategy + influencer partnerships  
+**The Solution:** Platform-specific content strategy
 **The Results:**
-- **420%** follower growth (15K → 78K)
-- **300%** increase in engagement rates
-- **15:1 ROI** on paid social spending
 
 ---
 
@@ -52,8 +44,6 @@ I'm **Tebogo Malebese**, a strategic marketing professional passionate about cre
 **The Challenge:** Outdated brand perception and declining market share  
 **The Solution:** Comprehensive brand audit, repositioning, and identity refresh  
 **The Results:**
-- **45%** revenue growth
-- **80%** customer retention rate
 - **26-point** increase in brand awareness
 
 ---
@@ -62,14 +52,14 @@ I'm **Tebogo Malebese**, a strategic marketing professional passionate about cre
 
 ```
 🔹 MARKETING STRATEGY          🔹 DIGITAL MARKETING
-   • Market Analysis              • SEO/SEM Strategy
+   • Market Analysis              • SEO/SEM/GEO Strategy
    • Competitive Positioning      • Email Marketing
    • Strategic Planning           • Marketing Automation
    • Customer Segmentation        • Paid Advertising
 
 🔹 CONTENT & BRAND             🔹 ANALYTICS & OPTIMIZATION
    • Content Strategy             • Data Analysis
-   • Brand Positioning            • ROI Measurement
+   • Brand Positioning            • Insights
    • Copywriting                  • A/B Testing
    • Brand Development            • Dashboard Creation
 
@@ -88,7 +78,7 @@ I'm **Tebogo Malebese**, a strategic marketing professional passionate about cre
 Strategic marketing planning | Campaign development | Performance optimization | Digital transformation
 
 ### **Sales & Admissions Professional** (9 Years)
-Customer relationship management | Business development | Process optimization | Team leadership
+Customer relationship management | Business development | Process optimization | Team leadership and coordination
 
 **Together:** 12 years of experience driving business growth and building customer relationships
 
@@ -96,9 +86,7 @@ Customer relationship management | Business development | Process optimization |
 
 ## Key Achievements
 
-✅ **Increased Marketing ROI** — Strategic optimization driving 200-300% returns  
-✅ **Generated 10,000+ Leads** — Multi-channel strategies creating qualified lead pipelines  
-✅ **Led High-Performing Teams** — Built and managed marketing teams delivering results  
+✅ **Led High-Performing Campaigns** — Built and managed marketing campaigns delivering results  
 ✅ **Implemented Data Systems** — Created analytics infrastructure enabling data-driven decisions  
 ✅ **Drove Digital Transformation** — Modernized marketing technology and processes  
 
@@ -112,8 +100,7 @@ Customer relationship management | Business development | Process optimization |
 - Brandwatch (Measure, Listen, Engage)
 
 ### **Marketing Platforms**
-- HubSpot | Google Analytics
-- Microsoft Dynamics 365
+- Microsoft Dynamics 365 | Google Analytics
 
 ### **Content & Design**
 - Copywriting | Content Strategy
@@ -122,7 +109,7 @@ Customer relationship management | Business development | Process optimization |
 
 ### **Social & Web**
 - Brandwatch (Publish) | Meta Business Suite
-- Hootsuite | Later | Sprout Social
+- Grammerly
 
 ### **Project Coordination**
 - Jira | Microsoft Planner
