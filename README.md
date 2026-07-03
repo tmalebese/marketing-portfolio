@@ -11,10 +11,7 @@ I'm **Tebogo Malebese**, a strategic marketing professional passionate about cre
 ###  What Makes Me Different
 
 |  | Strategic Thinking | Data-Driven Decisions | Proven ROI |
-|:-.-|:--|:--|:--|
-| I build marketing strategies that align with business objectives, ensuring every campaign has a clear purpose and measurable impact| 
-
-
+| I build marketing strategies that align with business objectives, ensuring every campaign has a clear purpose and measurable impact
 ---
 
 ##  Featured Success Stories
