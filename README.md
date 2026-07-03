@@ -10,8 +10,11 @@ I'm **Tebogo Malebese**, a strategic marketing professional passionate about cre
 
 ###  What Makes Me Different
 
-|  | Strategic Thinking | Data-Driven Decisions | Proven ROI |
-| I build marketing strategies that align with business objectives, ensuring every campaign has a clear purpose and measurable impact
+I combine strategic thinking with hands-on execution to deliver marketing that creates measurable business impact. Rather than focusing on individual campaigns, I look at the bigger picture - aligning marketing initiatives with business objectives, using data to guide decisions, and continuously optimizing for better results.
+
+With more than seven years of experience across digital marketing, CRM, campaign management, content, and stakeholder engagement, I bridge the gap between strategy and delivery. I thrive on turning ideas into well-executed campaigns that strengthen brands, generate quality leads, and improve performance.
+
+My approach is simple: understand the objective, build the right strategy, execute with precision, measure the results, and keep improving.
 ---
 
 ##  Featured Success Stories
